@@ -1,6 +1,8 @@
 # EXE2PY - Công cụ chuyển đổi file EXE sang Python
 # EXE2PY - EXE to Python Conversion Tool
 
+#                                                     DO DUY MANH 
+
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/author-HiepZ8-orange.svg)](https://github.com/hiep-py)
