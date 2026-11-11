@@ -1,11 +1,10 @@
 # EXE2PY - Công cụ chuyển đổi file EXE sang Python
-# EXE2PY - EXE to Python Conversion Tool
-
-#                                                     DO DUY MANH 
-[![duy manh]( https://img.shields.io/github/release/FlowiseAI/Flowise )]( https://github.com/FlowiseAI/Flowise/releases )
+# FLOWISE AI TRÍ TUỆ NHÂN TẠO THIẾT KẾ WEBSITE VÀ XÂY DỰNG CÁC TÁC NHÂN AI VỀ MẶT HÌNH VÀ NỀN TẢNG PHÁT HỆ THỐNG TÁC NHÂN MÃ NGUỒN
+#                                          BẢN QUYỀN DO DUY MANH                                         
+[![duy manh]( https://img.shields.io/github/release/FlowiseAI/Flowise )]( https://github.com/FlowiseAI/Flowise/release)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/author-HiepZ8-orange.svg)](https://github.com/hiep-py)
+[![Author](https://img.shields.io/badge/author-DuyManh-orange.svg)](https://github.com/duymanh-py)
 
 ## 🇻🇳 Tiếng Việt
 
